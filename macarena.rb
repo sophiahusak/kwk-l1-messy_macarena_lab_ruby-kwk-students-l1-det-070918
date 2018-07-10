@@ -24,7 +24,7 @@ puts "Step 5: Place your right hand on your left shoulder."
 puts "Step 6: Left arm out in front of you, palm facing down."
 
 # Step 7: FIXME
-puts "Step 7: Bring your right hand up and around to the back of your head."Place your left hand on your left shoulder."
+puts "Step 7: Bring your right hand up and around to the back of your head."your left hand on your left shoulder."Place 
 
 # Step 8: FIXME
 puts "Step 8: The Last Step"
